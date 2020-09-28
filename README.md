@@ -1,3 +1,3 @@
 # shivanishimpi.github.io
 
-Repository for my digital portfolio
+Repository for digital portfolio
