@@ -17,4 +17,4 @@ Other important information sources include my [GitHub](https://github.com/shiva
 
 My website can also be found at https://shivanishimpi.github.io.
 
-For any inquiries, please feel free to drop me an [email](shivanishimpi9@gmail.com).
+For any inquiries, please feel free to drop me an email at shivanishimpi9@gmail.com.
