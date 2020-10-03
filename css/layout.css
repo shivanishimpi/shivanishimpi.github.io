@@ -238,13 +238,14 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: rgb(117, 106, 106);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   color: rgb(117, 106, 106);
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #0d898d; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -253,7 +254,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #0d898d;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -266,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
 .skill, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid rgb(117, 106, 106);
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -300,7 +301,7 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: rgb(117, 106, 106);
   	height: 42px;
   	border-radius: 3px;
 }
@@ -413,7 +414,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: rgb(117, 106, 106);
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -429,7 +430,7 @@ ul#nav li.current a { color: #F06000; }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   background:rgb(117, 106, 106);
    overflow: hidden;
    position: relative;
 
@@ -465,7 +466,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
-   color: #fff;
+   color: rgb(117, 106, 106);
    height: 30px;
    width: 30px;
    font-size: 18px;
@@ -493,11 +494,11 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: rgb(117, 106, 106);
 }
 .portfolio-item .portfolio-item-meta p {
    font: 12px/18px 'opensans-light', sans-serif;
-   color: #c6c7c7;
+   color: rgb(117, 106, 106);
    margin-bottom: 0;
 }
 
@@ -516,7 +517,7 @@ ul#nav li.current a { color: #F06000; }
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
-	background: #fff;
+	background:rgb(117, 106, 106);
 	position: relative;
 	margin: 0 auto;
 }

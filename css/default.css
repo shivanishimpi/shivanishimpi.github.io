@@ -142,12 +142,12 @@ html {
 }
 
 body {
-   background: #fff;
+   background: rgb(138, 123, 123);
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #4a525a;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -432,17 +432,17 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .page-numbers:hover {
    background: #838A91;
-   color: #fff;
+   color: rgb(117, 106, 106);
 }
 .pagination .current,
 .pagination .current:hover {
    background-color: #11ABB0;
-   color: #fff;
+   color: rgb(117, 106, 106);
 }
 .pagination .inactive,
 .pagination .inactive:hover {
-   background-color: #E6E8EB;
-	color: #A9ADB2;
+   background-color: rgb(117, 106, 106);
+	color: rgb(117, 106, 106);
 }
 .pagination .prev, .pagination .next {}
 
@@ -809,7 +809,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-
