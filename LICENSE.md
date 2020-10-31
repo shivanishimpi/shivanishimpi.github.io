@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2016-Present Ahmed Hamodi
+Copyright (c) 2016-Present Shivani Shimpi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
