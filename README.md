@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 
-> Comprises of the code for my website
+> Comprises the code for my website
 
 ![](https://img.shields.io/badge/compatible--devices-mobiles/desktops/tablets-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
@@ -25,4 +25,4 @@ To know more about my work experiences, projects, extra curricular activities, a
 [2]: https://www.linkedin.com/in/shivani-shimpi-5113a8170/
 
 
-For any inquiries, please feel free to drop me an email at shivanishimpi9@gmail.com.
+For any inquiries, go ahead and drop me an email: shivanishimpi9@gmail.com.
