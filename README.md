@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 
-> Comprises the code for my website
+> Comprises the code for my personal website
 
 ![](https://img.shields.io/badge/compatible--devices-mobiles/desktops/tablets-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
